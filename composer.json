@@ -9,6 +9,14 @@
 		{
 			"name": "Michael Gauthier",
 			"email": "mike@silverorange.com"
+		},
+		{
+			"name": "Nathan Fredrickson",
+			"email": "nathan@silverorange.com"
+		},
+		{
+			"name": "Nick Burka",
+			"email": "nick@silverorange.com"
 		}
 	],
 	"require": {
